@@ -1,0 +1,37 @@
+# What are corporate actions:
+* Corporate Actions are eevents performd by organization which directly impacts its stakeholders/investors
+	* Some commonly known CA are:
+		* Stock split: Split 1 stock into 2 which will lower the price of each stock by 1/2.
+						* Companies normally do this to increase their market liquidity while they market capitalization/sare remains same.
+						* Overall stocks of the company double, prices become half and affordable.
+		* Reverse stock split: This is done to convert 10 stocks into 1.
+							* Companies do this to shed any penny stocks.
+		* Dividents: There are two types of dividents: Cash/Stock dividents.
+					* Companies pay cash or additional stocks for each stocks holded by the investor.
+		* Rights Issue: This is done to allow existing stock holders or company employess to invest in companies stocks before going to public.
+						* Investors whose have existing stokcs are at times given right to invest into additional stocks if they want.
+							Its normally not an obligation but rather choice of opting to invets or not.
+		* Mergers: When a company A surrenders all its stocks to company B and going forward company B becomes the owner.
+		* Acquisition: When company A buys majority of stocks in ocmpany B and becomes majority stock holder.
+		* Spinoff: When a company sells parts of its assets or distributes some of its assets to start a new independenty company.
+------------------------------------------------------------------------------------------------------------------------------------------------		
+# CUSIP vs ISIN
+* Both are unique identifiers of the securities which are traded in open market.
+	* CUSIP is unique identifier to stocks/securities that are registered in US/Canada.
+	* Securities registered in any other part of the world have an ISIN as its unique identifier.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+# Securities vs Stocks
+* Securities are financial asset that can be traded to raise capital.
+	*Stocks are one type of securities.
+		Other securities are:
+			* Debts
+			* Derivatives
+-------------------------------------------------------------------------------------------------------------------------------------------------
+# Ex-Date(Ex-Dividend Date) and Record Date
+* Company directors announces divident for all the investors and comes up with record-date
+	* Record-date is the date when company sees record fo all the existing investors with them and gives them divident.
+	* ex-date is normally T-1 from record-date.
+	* Seller who sold his stocks on ex-date shall get divident payed out to him.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+	
+
