@@ -28,7 +28,7 @@
 			* Derivatives
 -------------------------------------------------------------------------------------------------------------------------------------------------
 # Ex-Date(Ex-Dividend Date) and Record Date
-* Company directors announces divident for all the investors and comes up with record-date
+* Company directors announces divident for all the investors and comes up with record-date.
 	* Record-date is the date when company sees record fo all the existing investors with them and gives them divident.
 	* ex-date is normally T-1 from record-date.
 	* Seller who sold his stocks on ex-date shall get divident payed out to him.
